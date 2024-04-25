@@ -1,4 +1,4 @@
-# Modeling Mutations In Spike Protein's RBD 
+# Modeling Mutations In COVID Spike Protein's RBD 
 
 ## File Types
 
